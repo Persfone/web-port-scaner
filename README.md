@@ -94,7 +94,7 @@ Open Ports
 
 ## Status
 
-Completed / In Progress
+Completed 
 
 ---
 
